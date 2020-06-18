@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAA;EACC,UAAU,EAAC,OAAe;EAC1B,MAAM,EAAC,KAAK;EACZ,KAAK,EAAC,KAAK;EACX,QAAQ,EAAE,KAAK;CAIlB;;AARD,AAKI,GALD,CAKG,CAAC,CAAA;EACC,KAAK,EAAC,OAAkB;CAC3B",
+    "sources": [
+        "../scss/style-gestion.scss"
+    ],
+    "names": [],
+    "file": "style-gestion.css"
+}
